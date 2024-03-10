@@ -1,4 +1,4 @@
-module github.com/OcheVerse/Url-shortenerB
+module 
 
 go 1.22.1
 
