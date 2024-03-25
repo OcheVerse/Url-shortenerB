@@ -2,7 +2,7 @@ package routes
 
 import (
 	"github.com/akhil/fiber-url-shortener/database"
-	"github.com/go-redis/redis/v8"
+	"github.com/go-redis/redis/v9"
 	"github.com/gofiber/fiber/v2"
 )
 
