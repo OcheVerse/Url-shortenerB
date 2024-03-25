@@ -35,3 +35,6 @@ func main() {
 	setupRoutes(app)
 	log.Fatal(app.Listen(os.Getenv("APP_PORT")))
 }
+
+
+//TODO endpoint to get all the urls
