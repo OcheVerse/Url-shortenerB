@@ -37,4 +37,3 @@ func main() {
 }
 
 
-//TODO endpoint to get all the urls
