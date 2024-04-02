@@ -4,7 +4,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/akhil/fiber-url-shortener/routes"
+	"github.com/OcheVerse/Url-shortenerB/api/routes"
 	"github.com/gofiber/fiber/v2"
 	"github.com/gofiber/fiber/v2/middleware/logger"
 	"github.com/joho/godotenv"
